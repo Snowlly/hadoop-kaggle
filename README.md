@@ -1,4 +1,4 @@
-# TP Big Data Lakehouse — HDFS (3 DataNodes) + PySpark + Delta Lake + Streamlit
+# hadoop-kaggle — TP Big Data Lakehouse — HDFS (3 DataNodes) + PySpark + Delta Lake + Streamlit
 
 Environnement pédagogique complet reposant sur un **cluster HDFS réel distribué (1 NameNode + 3 DataNodes)** avec blocs réduits à **16 Mo** et détection de panne abaissée à **~50 secondes**, couplé à une image mutualisée légère (`python:3.11-slim-bookworm` + `uv` + JARs Delta pré-embarqués) pour **PySpark 3.5**, **Delta Lake 3.2**, **JupyterLab** et **Streamlit**.
 
